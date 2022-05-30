@@ -29,7 +29,7 @@ body {
 .add-task__input, .item__task-title, .item-edit-mode__input {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 .new-task {
     display: flex;
@@ -124,7 +124,7 @@ li > * {
     width: 226px;
 }
 .add-task__input {
-    width: 226px
+    width: 226px;
 }
 .btn-delete__img {
     height: 2em;
@@ -145,7 +145,7 @@ li > * {
 
 .item__input, .item-edit-mode__input{
     display:inline-block;
-    width:224px
+    width:224px;
 }
 
 .item__input {
