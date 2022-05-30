@@ -177,6 +177,6 @@ li > * {
     display: none;
 }
 
-/* .item task-title {
-    display:none;
-} */
+.item_edit-mode .item__task-title {
+    display: none;
+}
